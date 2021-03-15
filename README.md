@@ -8,7 +8,7 @@
 5. In the Test Explorer locate the tests => Bunnings_Search > Bunnings_Search.feature > SearchFeature.feature       
 6. Run the Tests.         
 
-**Please Note: **Only the below listed 3 tests are automated
+**Please Note: **Only the below listed 3 tests are automated    
 a. _VerifySearchTitle   
 b._ItemNotStocked  
 c. _VerifyRecentSearchHistory    
