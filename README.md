@@ -8,10 +8,10 @@
 5. In the Test Explorer locate the tests => Bunnings_Search > Bunnings_Search.feature > SearchFeature.feature
 6. Run the Tests. 
 
-**Please Note: **Only the below listed 3 tests are automated 
-a. _VerifySearchTitle
-b._ItemNotStocked
-c. _VerifyRecentSearchHistory
+**Please Note: **Only the below listed 3 tests are automated  
+a. _VerifySearchTitle  
+b._ItemNotStocked  
+c. _VerifyRecentSearchHistory  
 
 **Packages installed (if needed)**
 1. Selenium WebDriver (3.141.0)
