@@ -2,12 +2,12 @@
 
 **How to run the tests: **
 
-1.The tests are automated using Chromedriver on windows. (please ensure you have chrome v89 installed on the windows machine)
-2. Download/clone the branch -  feature/search_feature
-3. Open the project in Visual Studio 
-4. Build the project. 
-5. In the Test Explorer locate the tests => Bunnings_Search > Bunnings_Search.feature > SearchFeature.feature
-6. Run the Tests. 
+1.The tests are automated using Chromedriver on windows. (please ensure you have chrome v89 installed on the windows machine) 
+3. Download/clone the branch -  feature/search_feature 
+4. Open the project in Visual Studio 
+5. Build the project. 
+6. In the Test Explorer locate the tests => Bunnings_Search > Bunnings_Search.feature > SearchFeature.feature
+7. Run the Tests. 
 
 **Please Note: **Only the below listed 3 tests are automated
 a. _VerifySearchTitle
