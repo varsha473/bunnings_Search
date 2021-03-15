@@ -1,6 +1,6 @@
 # bunnings_Search
 
-**How to run the tests: **
+**How to run the tests: **    
 1.The tests are automated using Chromedriver on windows. (please ensure you have chrome v89 installed on the windows machine)     
 2. Download/clone the branch -  feature/search_feature       
 3. Open the project in Visual Studio     
@@ -9,10 +9,9 @@
 6. Run the Tests.         
 
 **Please Note: **Only the below listed 3 tests are automated
-
-a. _VerifySearchTitle
-b._ItemNotStocked
-c. _VerifyRecentSearchHistory
+a. _VerifySearchTitle   
+b._ItemNotStocked  
+c. _VerifyRecentSearchHistory    
 
 **Packages installed (if needed)**
 1. Selenium WebDriver (3.141.0)
